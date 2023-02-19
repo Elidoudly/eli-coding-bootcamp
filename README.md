@@ -19,6 +19,8 @@ Some basic commands that are useful:
 1. `cd` brings you back to your root directory
 2. `cd /path/to/my/super/cool/directory` brings you to a directory
 3. `ls` shows you the files and directories located in the directory you are in
+4. Up and down arrows in the terminal will allow you to navigate the previously executed commands
+5. CTRL / command + C cancels the ongoing command
 
 # How to setup the project 
 1. Install **node-js**: https://nodejs.org/en/download/
