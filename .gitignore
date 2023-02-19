@@ -1,0 +1,9 @@
+# IDE settings
+.idea
+
+# package directories
+node_modules
+jspm_packages
+
+# MAC OS
+.DS_store
