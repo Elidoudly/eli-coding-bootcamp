@@ -1,0 +1,22 @@
+{
+  "name": "eli-coding-bootcamp",
+  "version": "1.0.0",
+  "description": "Bootcamp for the future coders of puerto escondido!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elidoudly/eli-coding-bootcamp.git"
+  },
+  "author": "Elidoudly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elidoudly/eli-coding-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Elidoudly/eli-coding-bootcamp#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
